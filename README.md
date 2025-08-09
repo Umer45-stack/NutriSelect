@@ -1,16 +1,32 @@
-# flutter_application_3
+# NutriSelect
 
-A new Flutter project.
+NutriSelect is a Flutter-based mobile application designed to help users easily find and purchase nutritious products tailored to their dietary preferences. The app integrates Firebase for authentication and data management, providing a seamless and personalized shopping experience.
+
+## Features
+
+- User authentication with Firebase  
+- Browse and search for nutritious products  
+- Detailed product information and reviews  
+- Personalized recommendations based on user preferences  
+- Vendor management to add and manage products  
+- Store locator for finding nearby vendors  
+
+## Technologies Used
+
+- Flutter  
+- Dart  
+- Firebase Authentication  
+- Firebase Firestore  
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK installed  
+- Firebase project setup  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/Umer45-stack/NutriSelect.git
