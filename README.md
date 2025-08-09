@@ -5,11 +5,12 @@ NutriSelect is a Flutter-based mobile application designed to help users easily 
 ## Features
 
 - User authentication with Firebase  
-- Browse and search for nutritious products  
+- Browse and search for nutritious products
+- Browse and search products with calories according to your needs  
 - Detailed product information and reviews  
 - Personalized recommendations based on user preferences  
 - Vendor management to add and manage products  
-- Store locator for finding nearby vendors  
+- Store locator for finding nearby vendors (Google Maps) 
 
 ## Technologies Used
 
